@@ -1,0 +1,3 @@
+# config class
+@Configuration
+@Bean
